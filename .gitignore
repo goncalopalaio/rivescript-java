@@ -1,3 +1,10 @@
+*.gradle
+gradlew
+gradlew.bat
+.editorconfig
+/samples
+/gradle
+
 .DS_Store
 .classpath
 .gradle
