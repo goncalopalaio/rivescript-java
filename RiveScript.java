@@ -22,8 +22,6 @@
 
 package com.rivescript;
 
-import com.rivescript.lang.Java;
-
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.File;
@@ -120,9 +118,6 @@ public class RiveScript {
 
 		// Set static debug modes.
 		Topic.setDebug(this.debug);
-
-		// Set the default Java macro handler.
-		this.setHandler("java", new Java(this));
 	}
 
 	/**
