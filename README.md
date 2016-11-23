@@ -1,5 +1,7 @@
 # Java RiveScript Interpreter
 
+(Only the core files)
+
 This is a Java implementation of a RiveScript interpreter, per the Working Draft
 at http://www.rivescript.com/wd/RiveScript.html
 
