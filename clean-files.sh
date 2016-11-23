@@ -1,2 +1,2 @@
-git rm --cached `git ls-files -i --exclude-from=.gitignore`
+git rm -r --cached `git ls-files -i --exclude-from=.gitignore`
 
