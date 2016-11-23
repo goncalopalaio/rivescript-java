@@ -1,3 +1,5 @@
+/rivescript-core/src/test 
+/src
 gradle.properties
 *.gradle
 gradlew
